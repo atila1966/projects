@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "pdimaging", "pdimaging.vfproj", "{9B3505BA-C264-4846-9716-C74F9468D896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3505BA-C264-4846-9716-C74F9468D896}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B3505BA-C264-4846-9716-C74F9468D896}.Debug|Win32.Build.0 = Debug|Win32
+		{9B3505BA-C264-4846-9716-C74F9468D896}.Release|Win32.ActiveCfg = Release|Win32
+		{9B3505BA-C264-4846-9716-C74F9468D896}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
